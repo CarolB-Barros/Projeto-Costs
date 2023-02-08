@@ -1,0 +1,118 @@
+{
+  "projects": [
+    {
+      "name": "Projeto 21",
+      "budget": "59998",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 113,
+      "services": [
+        {
+          "name": "cbarroca@lifescan.com",
+          "cost": "45",
+          "description": "Categorias dos produtos",
+          "id": "f3ad1cda-4a63-42b7-aec4-d684de046200"
+        },
+        {
+          "name": "Serviço 1",
+          "cost": "23",
+          "description": "Servicinho",
+          "id": "5f0efefe-3c9d-472f-ab70-8b6b95924254"
+        },
+        {
+          "name": "cbarroca@lifescan.com",
+          "cost": "45",
+          "description": "Categorias dos produtos",
+          "id": "2f67f067-7ffb-4e88-9d43-3321423bf9f8"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Projeto da Carol 1",
+      "budget": "150015",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Projeto X",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "1",
+      "budget": "0",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "cbarroca@lifescan.com",
+      "budget": "2",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "cbarroca@lifescan.com",
+      "budget": "2",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "onetouch",
+      "budget": "45",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": -120,
+      "services": [],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
